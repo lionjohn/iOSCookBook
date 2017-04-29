@@ -11,6 +11,6 @@
     * [KVO原理](CHAPTER3/1.md)
     * [Category原理](CHAPTER3/2.md)
 * [学习笔记](CHAPTER4/README.md)
-    * [iOS常用代码块整理](chapter4/1.md)
-    * [iOS 方法代码块的创建和使用](chapter4/2.md)
+    * [iOS常用代码块整理](CHAPTER4/1.md)
+    * [iOS 方法代码块的创建和使用](CHAPTER4/2.md)
 
