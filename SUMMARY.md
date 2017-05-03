@@ -13,4 +13,5 @@
 * [学习笔记](CHAPTER4/README.md)
     * [iOS常用代码块整理](CHAPTER4/1.md)
     * [iOS 方法代码块的创建和使用](CHAPTER4/2.md)
+    * [iOS 学习笔记总结（一）](CHAPTER4/ios_note_1.md)
 
