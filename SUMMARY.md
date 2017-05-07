@@ -11,8 +11,9 @@
     * [KVO原理](CHAPTER3/1.md)
     * [Category原理](CHAPTER3/2.md)
 * [学习笔记](CHAPTER4/README.md)
+    * [iOS 学习笔记总结](CHAPTER4/ios_note_1.md)
     * [iOS常用代码块整理](CHAPTER4/1.md)
     * [iOS 方法代码块的创建和使用](CHAPTER4/2.md)
-    * [iOS 学习笔记总结（一）](CHAPTER4/ios_note_1.md)
-    * [resizableImageWithCapInsets方法探析](CHAPTER4/resizableImageWithCapInsets.md)
+    * [resizableImage方法探析](CHAPTER4/resizableImageWithCapInsets.md)
+    * [Masonry介绍与使用实践](CHAPTER4/masonry.md)
 
