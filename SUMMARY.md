@@ -17,4 +17,5 @@
     * [resizableImage方法探析](CHAPTER4/resizableImageWithCapInsets.md)
     * [Masonry介绍与使用实践](CHAPTER4/masonry.md)
     * [Crash日志的收集和分析](CHAPTER4/crash_analyse.md)
+    * [iOS 架构模式 - 简述 MVC, MVP, MVVM 和 VIPER](CHAPTER4/ios_architecture_patterns.md)
 
