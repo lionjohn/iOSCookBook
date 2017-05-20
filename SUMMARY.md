@@ -16,4 +16,5 @@
     * [iOS 方法代码块的创建和使用](CHAPTER4/2.md)
     * [resizableImage方法探析](CHAPTER4/resizableImageWithCapInsets.md)
     * [Masonry介绍与使用实践](CHAPTER4/masonry.md)
+    * [Crash日志的收集和分析](CHAPTER4/crash_analyse.md)
 
