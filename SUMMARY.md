@@ -13,7 +13,7 @@
     * [iOS深拷贝和浅拷贝](CHAPTER3/deepcopy.md)
     * [Runtime机制](CHAPTER3/runtime.md)
         * [Runtime简介](CHAPTER3/runtime/runtime_basics.md)
-* [学习笔记](CHAPTER4/README.md)
+* [开发笔记](CHAPTER4/README.md)
     * [iOS 学习笔记总结](CHAPTER4/ios_note_1.md)
     * [iOS常用代码块整理](CHAPTER4/1.md)
     * [iOS 方法代码块的创建和使用](CHAPTER4/2.md)
@@ -22,4 +22,5 @@
     * [Crash日志的收集和分析](CHAPTER4/crash_analyse.md)
     * [iOS 架构模式归纳和总结](CHAPTER4/ios_architecture_patterns.md)
     * [iOS 自动布局VFL入门教程](CHAPTER4/autolayout_vfl.md)
+    * [iOS之widget开发(Today Extension)](CHAPTER4/widget_extension.md)
 
