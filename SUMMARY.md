@@ -11,6 +11,7 @@
     * [KVO原理](CHAPTER3/1.md)
     * [Category原理](CHAPTER3/2.md)
     * [iOS深拷贝和浅拷贝](CHAPTER3/deepcopy.md)
+    * [iOS LLDB调试技巧](CHAPTER3/lldb.md)
     * [Runtime机制](CHAPTER3/runtime.md)
         * [Runtime简介](CHAPTER3/runtime/runtime_basics.md)
 * [开发笔记](CHAPTER4/README.md)
