@@ -24,4 +24,5 @@
     * [iOS 架构模式归纳和总结](CHAPTER4/ios_architecture_patterns.md)
     * [iOS 自动布局VFL入门教程](CHAPTER4/autolayout_vfl.md)
     * [iOS之widget开发(Today Extension)](CHAPTER4/widget_extension.md)
+    * [Swift和Objective-C的相互调用](CHAPTER4/oc_swift_mixing.md)
 
