@@ -85,4 +85,8 @@
 
 
 
+# 三) 最后
+
+我的微博 [@云峰笔记](http://weibo.com/fnote) 简书 [@陈云峰](http://www.jianshu.com/u/abe46f5b31b9) 多多关注，多提意见，互相学习，互相进步！
+
 
